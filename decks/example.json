@@ -1,0 +1,22 @@
+{
+  "set": "Examples",
+  "name": "Example deck",
+  "description": "Shows the format. Delete this file once you have real decks.",
+  "cards": [
+    {
+      "front": "What does the Leitner system do?",
+      "back": "Moves a card up a box when you get it right and back to box 1 when you miss it; higher boxes come back less often.",
+      "tags": ["meta"]
+    },
+    {
+      "front": "Keyboard: flip / got it / missed it",
+      "back": "Space flips\nRight arrow (or K) = got it\nLeft arrow (or J) = missed it",
+      "tags": ["meta"]
+    },
+    {
+      "front": "A back can be a list",
+      "back": ["Each item", "becomes its own line"],
+      "tags": ["format"]
+    }
+  ]
+}
